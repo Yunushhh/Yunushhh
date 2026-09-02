@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Yunus! 👋
+### AI Automation Specialist | CRM & Workflow Solutions
 
-<!--
-**Yunushhh/Yunushhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build robust, end-to-end automation systems that eliminate manual data entry, streamline lead pipelines, and connect business tools. I specialize in integrating intelligent AI logic directly into CRMs and databases.
 
-Here are some ideas to get you started:
+**Core Solutions:**
+- 🔄 **CRM & Pipeline Automation:** Syncing and enriching leads across HubSpot, GoHighLevel, Airtable, and Pipedrive.
+- ⚙️ **Workflow Orchestration:** Building complex multi-step scenarios in Make.com and Zapier with built-in error handling.
+- 🤖 **AI-Powered Workflows:** Embedding LLMs (OpenAI, Gemini) inside CRMs for automated lead qualification, email drafting, and data extraction.
+- 🔗 **API & Webhook Integrations:** Custom REST API connections across Google Workspace, messaging tools, and backend databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core Stack:**
+`Make.com` `Zapier` `HubSpot` `GoHighLevel` `Airtable` `REST APIs` `OpenAI` `Google Workspace`
+
+**Let's work together!**
+Hire me directly for your next automation project on my [Upwork Profile](INSERT_YOUR_UPWORK_LINK_HERE).
