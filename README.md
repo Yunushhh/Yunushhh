@@ -10,7 +10,8 @@ I build robust, end-to-end automation systems that eliminate manual data entry, 
 - 🔗 **API & Webhook Integrations:** Custom REST API connections across Google Workspace, messaging tools, and backend databases.
 
 **Core Stack:**
-`Make.com` `Zapier` `HubSpot` `GoHighLevel` `Airtable` `REST APIs` `OpenAI` `Google Workspace`
+`n8n` `Make.com` `Zapier` `HubSpot` `GoHighLevel` `Airtable` `REST APIs` `OpenAI` `Google Workspace`
 
 **Let's work together!**
-Hire me directly for your next automation project on my [Upwork Profile](INSERT_YOUR_UPWORK_LINK_HERE).
+Hire me directly for your next automation project on my [Upwork Profile](https://www.upwork.com/freelancers/~01e0fe88e167392509).
+DM me directly on my [LinkedIn](https://www.linkedin.com/in/mohmmadyunus)
