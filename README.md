@@ -5,7 +5,7 @@ I build robust, end-to-end automation systems that eliminate manual data entry, 
 
 **Core Solutions:**
 - 🔄 **CRM & Pipeline Automation:** Syncing and enriching leads across HubSpot, GoHighLevel, Airtable, and Pipedrive.
-- ⚙️ **Workflow Orchestration:** Building complex multi-step scenarios in Make.com and Zapier with built-in error handling.
+- ⚙️ **Workflow Orchestration:** Building complex multi-step scenarios in n8n with built-in error handling.
 - 🤖 **AI-Powered Workflows:** Embedding LLMs (OpenAI, Gemini) inside CRMs for automated lead qualification, email drafting, and data extraction.
 - 🔗 **API & Webhook Integrations:** Custom REST API connections across Google Workspace, messaging tools, and backend databases.
 
