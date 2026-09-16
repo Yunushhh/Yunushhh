@@ -1,5 +1,5 @@
 # Hi, I'm Yunus! 👋
-### AI Automation Specialist | CRM & Workflow Solutions
+### AI Workflow Automation Architect | CRM & Workflow Solutions
 
 I build robust, end-to-end automation systems that eliminate manual data entry, streamline lead pipelines, and connect business tools. I specialize in integrating intelligent AI logic directly into CRMs and databases.
 
