@@ -20,8 +20,8 @@ Both are documented end to end — architecture, setup, test cases and known gap
 
 ## What I focus on
 
-- **State and recovery** — persistent state, deduplication, and runs that resume without repeating work
-- **Failure handling** — explicit error paths, grouped alerts, and no duplicate sends
+- **State and recovery** — persistent state, deduplication, and runs that resume where they stopped
+- **Failure handling** — explicit error paths, grouped alerts, and a deliberate choice for each system between resending and holding an uncertain send
 - **Scoped AI** — one LLM call where language needs understanding, deterministic rules for every decision
 - **Human in the loop** — AI-written replies are drafts, and uncertainty goes to a person
 
